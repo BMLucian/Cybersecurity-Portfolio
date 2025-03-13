@@ -15,6 +15,5 @@ Este proyecto simula una auditoría de cumplimiento normativo basada en **ISO 27
 
 ## 📑 Material
 - [Informe de Auditoría](Cumplimiento_Informe.pdf)
-- [Checklist de Auditoría](Checklist de Auditoría Mihai Lucian.pdf)
 
 ---
