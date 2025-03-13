@@ -33,4 +33,4 @@ Este proyecto simula un análisis de vulnerabilidades en una red empresarial uti
 
 ---
 📫 **Contacto**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin) | 📧 bm.lucian.exe@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/bmlucian/) | 📧 bmlucian.exe@gmail.com  
