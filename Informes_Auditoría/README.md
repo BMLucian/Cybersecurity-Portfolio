@@ -14,6 +14,6 @@ Este proyecto simula una auditoría de cumplimiento normativo basada en **ISO 27
 3. **Recomendaciones de mejora**: Se proponen mejoras para cumplir con las normativas.
 
 ## 📑 Informe Final
-- [Informe de Auditoría (Pendiente de completar)](./Informes_Auditoria/Cumplimiento_Informe.pdf)
+- [Informe de Auditoría](./Informes_Auditoría/Cumplimiento_-Informe.pdf)
 
 ---
