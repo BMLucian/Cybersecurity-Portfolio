@@ -1,7 +1,7 @@
 # 📜 Auditoría de Cumplimiento Normativo
 
 ## 📌 Descripción
-Este proyecto simula una auditoría de cumplimiento normativo basada en **ISO 27001** y **NIST CSF**. La auditoría evalúa la efectividad de los controles de seguridad, identifica brechas en el cumplimiento y ofrece recomendaciones para mejorar la postura de seguridad de la organización.
+Este proyecto simula una auditoría de cumplimiento normativo basada en **ISO 27001**, **NIST CSF** y **GDPR**. La auditoría evalúa la efectividad de los controles de seguridad, identifica brechas en el cumplimiento y ofrece recomendaciones para mejorar la postura de seguridad de la organización.
 
 ## 🛠 Herramientas Utilizadas
 - **ISO 27001**: Estándar de seguridad de la información.
@@ -13,7 +13,8 @@ Este proyecto simula una auditoría de cumplimiento normativo basada en **ISO 27
 2. **Identificación de brechas de cumplimiento**: Se identifican las áreas en las que la organización no cumple con los requisitos.
 3. **Recomendaciones de mejora**: Se proponen mejoras para cumplir con las normativas.
 
-## 📑 Informe Final
+## 📑 Material
 - [Informe de Auditoría](Cumplimiento_Informe.pdf)
+- [Checklist de Auditoría](Checklist de Auditoría Mihai Lucian.pdf)
 
 ---
